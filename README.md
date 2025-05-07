@@ -38,6 +38,7 @@ This project analyzes global COVID-19 trends using data provided by the **World 
 - Python: `pandas`, `matplotlib`, `scikit-learn`, `statsmodels`
 - Jupyter Notebook
 - WHO Public Datasets
+- PowerBI
 
 ## 📁 Files Included
 - `WHO-COVID-19-global-data.csv` — Raw COVID-19 case/death data
