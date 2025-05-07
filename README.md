@@ -44,4 +44,6 @@ This project analyzes global COVID-19 trends using data provided by the **World 
 - `WHO-COVID-19-global-data.csv` — Raw COVID-19 case/death data
 - `vaccination-data.csv` — Global vaccination metrics
 - `WHO_Covid19_Analysis.ipynb` — Full analysis notebook with visualizations, modeling, and insights
+- `PowerBI Covid-19 Case Visualizations.pdf` - PDF file with COVID-19 case visualizations from PowerBI
+- `Covid-19 Case Analysis.pbix` - Microsoft Power BI File showcasing the COVID-19 visualizations
 
